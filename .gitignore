@@ -1,0 +1,17 @@
+/target
+/classes
+*.jar
+*.class
+*.iml
+/.lein-*
+/.nrepl-port
+.idea/
+.hgignore
+.hg/
+*.swp
+*.log
+.DS_Store
+.#*
+\#*
+*~
+build.xml
