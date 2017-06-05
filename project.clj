@@ -1,6 +1,6 @@
 (defproject evilgiphy "0.1.0-SNAPSHOT"
-  :description "Demonstrates the use of the World Bank API"
-  :url "https://github.com/clojurebridge/global-growth"
+  :description "Searches for evil giphys"
+  :url "https://cryptic-hamlet-97529.herokuapp.com/"
   :license {:name "Creative Commons Attribution License"
             :url "http://creativecommons.org/licenses/by/3.0/"}
   :dependencies [[org.clojure/clojure "1.8.0"]
